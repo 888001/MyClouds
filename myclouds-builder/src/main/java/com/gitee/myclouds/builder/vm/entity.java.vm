@@ -24,7 +24,7 @@ import java.sql.Timestamp;
 /**
  * <b>$!{tableDto.comment}[${tableDto.name}]数据实体对象</b>
  * <p>
- * 注意:此文件由MyClouds平台自动生成-禁止手工修改。
+ * 注意:此文件由工具自动生成-禁止手工修改。
  * </p>
  * 
  * @author $!author

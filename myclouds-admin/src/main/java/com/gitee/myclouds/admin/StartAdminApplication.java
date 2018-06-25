@@ -11,6 +11,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import com.gitee.myclouds.admin.modules.cache.CacheService;
 
 @SpringBootApplication
+//只要添加这个注解即可向配置好的consul注册服务
 @EnableDiscoveryClient
 @EnableTransactionManagement
 @MapperScan(basePackages = {"com.gitee.myclouds"}, sqlSessionFactoryRef = "sqlSessionFactory")

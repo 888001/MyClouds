@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyClouds.iml" filepath="$PROJECT_DIR$/.idea/MyClouds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-admin/myclouds-admin.iml" filepath="$PROJECT_DIR$/myclouds-admin/myclouds-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-admin-web/myclouds-admin-web.iml" filepath="$PROJECT_DIR$/myclouds-admin-web/myclouds-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-builder/myclouds-builder.iml" filepath="$PROJECT_DIR$/myclouds-builder/myclouds-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-common/myclouds-common.iml" filepath="$PROJECT_DIR$/myclouds-common/myclouds-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-domain-entity/myclouds-domain-entity.iml" filepath="$PROJECT_DIR$/myclouds-domain-entity/myclouds-domain-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-domain-mapper/myclouds-domain-mapper.iml" filepath="$PROJECT_DIR$/myclouds-domain-mapper/myclouds-domain-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-gateway/myclouds-gateway.iml" filepath="$PROJECT_DIR$/myclouds-gateway/myclouds-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myclouds-toolbox/myclouds-toolbox.iml" filepath="$PROJECT_DIR$/myclouds-toolbox/myclouds-toolbox.iml" />
+    </modules>
+  </component>
+</project>
